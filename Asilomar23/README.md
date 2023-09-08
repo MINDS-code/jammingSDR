@@ -1,6 +1,7 @@
-# Data-driven LoRa Signal Classification
+# LoRa Signal Classification
 
-Code and Data for the simulation results presented in our paper titled "Data-driven classification of low-power communication signals by an unauthenticated user using a software-defined radio", Accepted at the Asilomar Conference on Signals, Systems, and Computers - 2023.
+Code and Data for the simulation results presented in the following paper: 
+Tarun Rao Keshabhoina and Marcos M. Vasconcelos. “Data-driven classification of low-power communication signals by an unauthenticated user using a Software Radio” IEEE Asilomar Conference on Signals, Systems, and Computers - 2023 [Accepted].
 
 ## Table of Contents
 
