@@ -1,8 +1,8 @@
 # jammingSDR
 
-Readme for experimental from SDR Dataset
+Readme for experimentation on SDR Dataset
 
-step 1: Download SDR_Dataset2 for IF Dataset.
+step 1: Download SDR_Dataset2.
 
 step 2: Update path vairables to match local file system.
 
